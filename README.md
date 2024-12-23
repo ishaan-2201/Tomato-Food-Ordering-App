@@ -11,7 +11,6 @@
 <img width="923" alt="pic 4" src="https://github.com/Simandhar14/tomato-food-mern/assets/121376696/8c366595-fbb8-4db9-9d09-0a00feba02e1">
 <img width="922" alt="pic 5" src="https://github.com/Simandhar14/tomato-food-mern/assets/121376696/003a1589-9b42-4e03-943a-eb5070f461e5">
 <img width="934" alt="pic 6" src="https://github.com/Simandhar14/tomato-food-mern/assets/121376696/6b972de7-4540-4037-88af-d882cc0905fe">
-<img width="921" alt="pic 7" src="https://github.com/Simandhar14/tomato-food-mern/assets/121376696/78bfef73-1979-4f5a-bc0a-ec99797c4f81">
 
 ## Features of the Project
 
